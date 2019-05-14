@@ -112,3 +112,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.model
+*.txt
+*.bin
+*.gz
+*.json
+*.txt
+text8.txt
